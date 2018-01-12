@@ -9,7 +9,7 @@ author: yfff
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
-filter: 'category'
+filter: 'tag'
 recent_num: 20
 
 # Social account
